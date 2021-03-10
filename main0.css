@@ -139,6 +139,7 @@ background-image: url("coloredghostscamp.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+	background-color: gray;
 }
 
 .caption span.border {
