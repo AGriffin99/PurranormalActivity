@@ -11,55 +11,17 @@ font-family: 'Frijole', cursive;
 font-family: 'Creepster', cursive; */
 
 body{
-background: transparent;
+	  /* background-image: url("evenlighter.png"); */
+/* background: transparent; */
 	margin:0px;
 
 /*    width:3000px;*/
 }
 
-.border2{
-    color: transparent;
 
-}
-
-
-.bg, bg2, bg3, bg4 {
-  position: relative;
-  opacity: 0.75;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-
-}
-.bg{
-  background-image: url(../img/blackBearBg.jpg);
-  min-height: 100%;
-}
-
-
-
-#box{
-    font-size:25px;
-    color:#ddd;
-    background-color:#282F32;
-    text-align:center;
-    padding:50px 80px;
-/*    text-align: justify;*/
-}
-
-.Bigbox{
-    font-size: 75px;
-    color:#ddd;
-    background-color:#282F32;
-    text-align:center;
-    padding:50px 80px;
-}
-
-/* .bg2{
-    background-image: url(../img/BlackBearStreet.jpg);
- min-height: 100%;
-}
+    /* background-image: url(../img/BlackBearStreet.jpg); */
+ /* min-height: 100%;
+} */
 
 .bg3{
     background-image: url(../img/bearsFb.jpg);
@@ -129,10 +91,13 @@ background-image: url("coloredghostscamp.png");
 
 .parallax {
   /* The image used */
-  background-image: url("evenlighter.png");
+  /* background-image: url("evenlighter.png");
+	 */
 
+	 background-image: url("bg.png");
+height:100%;
   /* Set a specific height */
-  min-height: 500px;
+  /* min-height: 500px; */
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -149,17 +114,6 @@ background-image: url("coloredghostscamp.png");
   font-size: 25px;
   letter-spacing: 10px;
     opacity: .8;
-}
-
-
-
-html
-, body
-, #mapid, #mapid2 , #mapid3
-{
-	height: 100%;
-	width: 100%;
-	font-family: Arial, sans-serif;
 }
 
 
