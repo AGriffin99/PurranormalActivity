@@ -6,62 +6,60 @@ body {
 }
 
 p {
-    padding: 0px 5px;
+    margin: 5px 0px;
+    padding: 8px 15px;
 }
 
 .scamp {
     font-family: 'Neucha', cursive;
-    font-size: 24px;
+    font-size: 23px;
     color: #000;
-    /* padding: 0px 5px; */
 }
 
 .lishou {
     font-family: 'Long Cang', cursive;
-    font-size: 33px;
+    font-size: 30px;
     color: #588d75;
-    /* padding: 0px 5px; */
 }
 
 .caitsidhe {
     font-family: 'Fondamento', cursive;
-    font-size: 23px;
-    color: #7b53ac;
+    font-size: 21.5px;
+    color: #7b53ac;;
 }
 
 .bakeneko {
     font-family: 'New Tegomin', serif;
-    font-size: 24px;
+    font-size: 20.5px;
     color: #bc3f29;
 }
 
 .kotbayun {
     font-family: 'Annie Use Your Telescope', cursive;
-    font-size: 27px;
+    font-size: 26px;
     color: #ed6f2c;
 }
 
 .yulecat {
     font-family: 'Mansalva', cursive;
-    font-size: 25px;
+    font-size: 23px;
     color: #286aa4;
 }
-
-.demoncat {
-    font-family: 'Indie Flower', cursive;
-    font-size: 26px;
-    color: #e6af19;
-}
-
 
 /*
 .demoncat {
     font-family: 'Indie Flower', cursive;
-    font-size: 26px;
+    font-size: 20px;
+    color: #e6af19;
+}
+*/
+
+.demoncat {
+    font-family: 'Indie Flower', cursive;
+    font-size: 24px;
     color: #fff;
     background-color: #000;
 }
-*/
 
 .leftscript {
     text-align: left;
