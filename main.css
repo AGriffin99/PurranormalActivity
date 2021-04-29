@@ -5,22 +5,28 @@ body {
     /*text-align: center;*/
 }
 
+p {
+    padding: 0px 5px;
+}
+
 .scamp {
     font-family: 'Neucha', cursive;
     font-size: 24px;
     color: #000;
+    /* padding: 0px 5px; */
 }
 
 .lishou {
     font-family: 'Long Cang', cursive;
     font-size: 33px;
     color: #588d75;
+    /* padding: 0px 5px; */
 }
 
 .caitsidhe {
     font-family: 'Fondamento', cursive;
     font-size: 23px;
-    color: #7b53ac;;
+    color: #7b53ac;
 }
 
 .bakeneko {
@@ -46,6 +52,7 @@ body {
     font-size: 26px;
     color: #e6af19;
 }
+
 
 /*
 .demoncat {
