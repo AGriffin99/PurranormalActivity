@@ -1,0 +1,95 @@
+/*
+*{font-family: 'Coiny', cursive;}
+*/
+
+/*
+    font-family: 'Eater', cursive;
+
+    font-family: 'Frijole', cursive;
+    font-style: italic;
+    font-style: oblique;
+
+    font-family: 'Creepster', cursive;
+*/
+
+/*
+body {
+    background-image: url("evenlighter.png");
+    background: transparent;
+}
+*/
+
+/*
+.cover {
+    background-image: url("purranormalposter.png");
+    width:auto;
+    height:100%;
+    background-size: cover;
+}
+*/
+
+/*
+.scampdiv {
+    background-image: url("coloredghostscamp.png");
+    height:25%;
+}
+*/
+
+/*
+.text {
+    height:1000px;
+    background-color:purple;
+    font-size:36px;
+    float:right;
+}
+
+.parallax {
+    -The image used
+    background-image: url("evenlighter.png");
+    background-image: url("bg.png");
+    height:100%;
+
+    -Set a specific height
+    min-height: 500px;
+
+    -Create the parallax scrolling effect
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: gray;
+}
+
+#scroll {
+    width: 100%;
+    height: 100%;
+}
+*/
+
+/*
+.caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    background-image: url("purranormalposter.png");
+}
+
+.caption span.border {
+    background-color: darkseagreen;
+    color: black;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+    opacity: .8;
+}
+*/
+
+/*
+.container {
+    max-width: 960px;
+    background: white
+}
+*/

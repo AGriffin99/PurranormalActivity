@@ -1,0 +1,65 @@
+body {
+    padding: 20px;
+    margin: auto;
+    width: 1300px;
+    /*text-align: center;*/
+}
+
+.scamp {
+    font-family: 'Neucha', cursive;
+    font-size: 24px;
+    color: #000;
+}
+
+.lishou {
+    font-family: 'Long Cang', cursive;
+    font-size: 33px;
+    color: #588d75;
+}
+
+.caitsidhe {
+    font-family: 'Fondamento', cursive;
+    font-size: 23px;
+    color: #7b53ac;;
+}
+
+.bakeneko {
+    font-family: 'New Tegomin', serif;
+    font-size: 24px;
+    color: #bc3f29;
+}
+
+.kotbayun {
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-size: 27px;
+    color: #ed6f2c;
+}
+
+.yulecat {
+    font-family: 'Mansalva', cursive;
+    font-size: 25px;
+    color: #286aa4;
+}
+
+.demoncat {
+    font-family: 'Indie Flower', cursive;
+    font-size: 26px;
+    color: #e6af19;
+}
+
+/*
+.demoncat {
+    font-family: 'Indie Flower', cursive;
+    font-size: 26px;
+    color: #fff;
+    background-color: #000;
+}
+*/
+
+.leftscript {
+    text-align: left;
+}
+
+.rightscript {
+    text-align: right;
+}
